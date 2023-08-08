@@ -1,0 +1,7 @@
+.Voltar{
+    background-color: rgb(255, 71, 71);
+}
+
+.Voltar:hover{
+    background-color: rgb(255, 0, 0);
+}

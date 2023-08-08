@@ -1,0 +1,29 @@
+.accordion-button{
+    background-color: #eff0f3;
+    outline: none;
+    border: transparent;
+}
+
+.accordion{
+    border: transparent;
+    outline: none;
+}
+
+.card{
+    transition: all 0.2s;
+
+}
+
+.card:hover{
+transform: scale(1.10);
+
+}
+
+.btn{
+    transition: all 0.2s;
+    background: #ff8e3c;
+}
+
+.btn-flat:hover{
+    background: #ff6a00;
+}
